@@ -12,6 +12,7 @@ namespace TestJenkins
         {
             Console.WriteLine("Hello World");
             Console.WriteLine("Added line 2");
+            Console.WriteLine("Added line 3");
         }
     }
 }
