@@ -11,6 +11,7 @@ namespace TestJenkins
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World");
+            Console.WriteLine("Added line 2");
         }
     }
 }
