@@ -1,0 +1,6 @@
+E:\Mallikarjun\Git\TestJenkins\TestJenkins\bin\Debug\TestJenkins.exe.config
+E:\Mallikarjun\Git\TestJenkins\TestJenkins\bin\Debug\TestJenkins.exe
+E:\Mallikarjun\Git\TestJenkins\TestJenkins\bin\Debug\TestJenkins.pdb
+E:\Mallikarjun\Git\TestJenkins\TestJenkins\obj\Debug\TestJenkins.csprojResolveAssemblyReference.cache
+E:\Mallikarjun\Git\TestJenkins\TestJenkins\obj\Debug\TestJenkins.exe
+E:\Mallikarjun\Git\TestJenkins\TestJenkins\obj\Debug\TestJenkins.pdb
